@@ -1,8 +1,8 @@
-I'm **[Vijayabalan](https://www.linkedin.com/in/vijaystack/)** ; aka **Vijay**. 
+I'm **[Ghanesan Natarajan](https://www.linkedin.com/in/vijaystack/)** ; aka **Ghani**. 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
-An Computer Cleaner born and raised in **Kumbakonam/India** and currently settled in **Belgium/Europe**.Currently working in European Commission as an Senior Architect.
+An Computer Cleaner born and raised in **Chidambaram/India** and currently settled in **Belgium/Europe**.Currently working in DXC Technology as an VDI Engineer.
 
 - :YouTube: I am helping technology and mentoring videos via my **[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
